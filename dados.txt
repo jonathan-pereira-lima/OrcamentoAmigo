@@ -1,0 +1,5 @@
+13/11/2023,salario,Receita,1000,00,1000,00
+14/11/2023,teste,Despesa,-150,00,850,00
+15/11/2023,compesa,Despesa,-50,00,800,00
+17/11/2023,RU,Despesa,-5,00,795,00
+17/11/2023,recebido,Receita,5,00,800,00
